@@ -12,13 +12,13 @@ class Solution {
 public:
     int getDecimalValue(ListNode* head) {
         ListNode* temp = head; 
-        int sum = 0 ; 
+        string binarystr = " ";
         while(temp != NULL){
 
-            sum = (sum*2) + temp->val ; 
+            binarystr += to_string(temp->val); 
 
             temp= temp->next; 
         }
-        return sum ; 
+        return stoi(binarystr,nullptr,2) ; 
     }
 };
