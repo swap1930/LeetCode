@@ -8,17 +8,32 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+// class Solution {
+// public:
+//     int getDecimalValue(ListNode* head) {
+//         ListNode* temp = head; 
+//         string binarystr = " ";
+//         while(temp != NULL){
+
+//             binarystr += to_string(temp->val); 
+
+//             temp= temp->next; 
+//         }
+//         return stoi(binarystr,nullptr,2) ; 
+//     }
+// };
+
+
 class Solution {
 public:
     int getDecimalValue(ListNode* head) {
         ListNode* temp = head; 
-        string binarystr = " ";
+        int sum = 0 ; 
         while(temp != NULL){
 
-            binarystr += to_string(temp->val); 
-
+           sum = (sum*2) + temp->val; 
             temp= temp->next; 
         }
-        return stoi(binarystr,nullptr,2) ; 
+        return sum; 
     }
 };
