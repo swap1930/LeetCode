@@ -6,6 +6,7 @@ For my DSA Preparation
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/swap1930/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swap1930/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/swap1930/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/swap1930/LeetCode/tree/master/0561-array-partition) |
@@ -34,4 +35,12 @@ For my DSA Preparation
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/swap1930/LeetCode/tree/master/0561-array-partition) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/swap1930/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/swap1930/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
