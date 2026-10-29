@@ -11,6 +11,7 @@ For my DSA Preparation
 | [0496-next-greater-element-i](https://github.com/swap1930/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/swap1930/LeetCode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/swap1930/LeetCode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/swap1930/LeetCode/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,17 @@ For my DSA Preparation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/swap1930/LeetCode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/swap1930/LeetCode/tree/master/0832-flipping-an-image) |
+## Two Pointers
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/swap1930/LeetCode/tree/master/0832-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/swap1930/LeetCode/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/swap1930/LeetCode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
