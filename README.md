@@ -12,6 +12,7 @@ For my DSA Preparation
 | [0561-array-partition](https://github.com/swap1930/LeetCode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/swap1930/LeetCode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/swap1930/LeetCode/tree/master/0832-flipping-an-image) |
+| [0942-di-string-match](https://github.com/swap1930/LeetCode/tree/master/0942-di-string-match) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ For my DSA Preparation
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/swap1930/LeetCode/tree/master/0561-array-partition) |
+| [0942-di-string-match](https://github.com/swap1930/LeetCode/tree/master/0942-di-string-match) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +57,7 @@ For my DSA Preparation
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/swap1930/LeetCode/tree/master/0832-flipping-an-image) |
+| [0942-di-string-match](https://github.com/swap1930/LeetCode/tree/master/0942-di-string-match) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,4 +66,8 @@ For my DSA Preparation
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/swap1930/LeetCode/tree/master/0832-flipping-an-image) |
+## String
+|  |
+| ------- |
+| [0942-di-string-match](https://github.com/swap1930/LeetCode/tree/master/0942-di-string-match) |
 <!---LeetCode Topics End-->
