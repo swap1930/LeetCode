@@ -14,12 +14,14 @@ For my DSA Preparation
 | [0804-unique-morse-code-words](https://github.com/swap1930/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/swap1930/LeetCode/tree/master/0832-flipping-an-image) |
 | [0942-di-string-match](https://github.com/swap1930/LeetCode/tree/master/0942-di-string-match) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/swap1930/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swap1930/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/swap1930/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0804-unique-morse-code-words](https://github.com/swap1930/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/swap1930/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Stack
 |  |
 | ------- |
@@ -73,4 +75,8 @@ For my DSA Preparation
 | ------- |
 | [0804-unique-morse-code-words](https://github.com/swap1930/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0942-di-string-match](https://github.com/swap1930/LeetCode/tree/master/0942-di-string-match) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/swap1930/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
