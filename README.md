@@ -16,6 +16,7 @@ For my DSA Preparation
 | [0942-di-string-match](https://github.com/swap1930/LeetCode/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/swap1930/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/swap1930/LeetCode/tree/master/1051-height-checker) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/swap1930/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/swap1930/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ For my DSA Preparation
 | ------- |
 | [0682-baseball-game](https://github.com/swap1930/LeetCode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/swap1930/LeetCode/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/swap1930/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,4 +92,8 @@ For my DSA Preparation
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/swap1930/LeetCode/tree/master/1051-height-checker) |
+## Math
+|  |
+| ------- |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/swap1930/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 <!---LeetCode Topics End-->
