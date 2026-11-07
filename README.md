@@ -68,6 +68,7 @@ For my DSA Preparation
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/swap1930/LeetCode/tree/master/0125-valid-palindrome) |
 | [0832-flipping-an-image](https://github.com/swap1930/LeetCode/tree/master/0832-flipping-an-image) |
 | [0942-di-string-match](https://github.com/swap1930/LeetCode/tree/master/0942-di-string-match) |
 ## Bit Manipulation
@@ -82,6 +83,7 @@ For my DSA Preparation
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/swap1930/LeetCode/tree/master/0125-valid-palindrome) |
 | [0804-unique-morse-code-words](https://github.com/swap1930/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0942-di-string-match](https://github.com/swap1930/LeetCode/tree/master/0942-di-string-match) |
 ## Pigeonhole Principle
