@@ -84,6 +84,7 @@ For my DSA Preparation
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/swap1930/LeetCode/tree/master/0125-valid-palindrome) |
+| [0709-to-lower-case](https://github.com/swap1930/LeetCode/tree/master/0709-to-lower-case) |
 | [0804-unique-morse-code-words](https://github.com/swap1930/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0942-di-string-match](https://github.com/swap1930/LeetCode/tree/master/0942-di-string-match) |
 ## Pigeonhole Principle
