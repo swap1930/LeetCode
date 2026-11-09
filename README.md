@@ -101,4 +101,8 @@ For my DSA Preparation
 |  |
 | ------- |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/swap1930/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+## Database
+|  |
+| ------- |
+| [1661-average-time-of-process-per-machine](https://github.com/swap1930/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
