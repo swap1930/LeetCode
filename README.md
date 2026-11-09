@@ -104,5 +104,6 @@ For my DSA Preparation
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/swap1930/LeetCode/tree/master/0197-rising-temperature) |
 | [1661-average-time-of-process-per-machine](https://github.com/swap1930/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
