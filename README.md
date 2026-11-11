@@ -21,6 +21,7 @@ For my DSA Preparation
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/swap1930/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swap1930/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/swap1930/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/swap1930/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -49,6 +50,7 @@ For my DSA Preparation
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/swap1930/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/swap1930/LeetCode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/swap1930/LeetCode/tree/master/1051-height-checker) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/swap1930/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -88,6 +90,7 @@ For my DSA Preparation
 | ------- |
 | [0125-valid-palindrome](https://github.com/swap1930/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/swap1930/LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/swap1930/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/swap1930/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/swap1930/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/swap1930/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -110,4 +113,8 @@ For my DSA Preparation
 | ------- |
 | [0197-rising-temperature](https://github.com/swap1930/LeetCode/tree/master/0197-rising-temperature) |
 | [1661-average-time-of-process-per-machine](https://github.com/swap1930/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/swap1930/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
