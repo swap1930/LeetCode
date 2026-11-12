@@ -9,6 +9,7 @@ For my DSA Preparation
 | [0303-range-sum-query-immutable](https://github.com/swap1930/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swap1930/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/swap1930/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/swap1930/LeetCode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/swap1930/LeetCode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/swap1930/LeetCode/tree/master/0682-baseball-game) |
 | [0804-unique-morse-code-words](https://github.com/swap1930/LeetCode/tree/master/0804-unique-morse-code-words) |
@@ -24,6 +25,7 @@ For my DSA Preparation
 | [0387-first-unique-character-in-a-string](https://github.com/swap1930/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swap1930/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/swap1930/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/swap1930/LeetCode/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/swap1930/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/swap1930/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/swap1930/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -91,6 +93,7 @@ For my DSA Preparation
 | [0125-valid-palindrome](https://github.com/swap1930/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/swap1930/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/swap1930/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0500-keyboard-row](https://github.com/swap1930/LeetCode/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/swap1930/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/swap1930/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/swap1930/LeetCode/tree/master/0771-jewels-and-stones) |
