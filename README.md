@@ -19,6 +19,7 @@ For my DSA Preparation
 | [1051-height-checker](https://github.com/swap1930/LeetCode/tree/master/1051-height-checker) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/swap1930/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/swap1930/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1773-count-items-matching-a-rule](https://github.com/swap1930/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ For my DSA Preparation
 | [0771-jewels-and-stones](https://github.com/swap1930/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/swap1930/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0942-di-string-match](https://github.com/swap1930/LeetCode/tree/master/0942-di-string-match) |
+| [1773-count-items-matching-a-rule](https://github.com/swap1930/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 ## Pigeonhole Principle
 |  |
 | ------- |
