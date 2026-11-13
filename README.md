@@ -92,6 +92,7 @@ For my DSA Preparation
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/swap1930/LeetCode/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/swap1930/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/swap1930/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/swap1930/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/swap1930/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -113,6 +114,7 @@ For my DSA Preparation
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/swap1930/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/swap1930/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/swap1930/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 ## Database
