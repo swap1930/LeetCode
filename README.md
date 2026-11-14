@@ -35,6 +35,7 @@ For my DSA Preparation
 | ------- |
 | [0496-next-greater-element-i](https://github.com/swap1930/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/swap1930/LeetCode/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/swap1930/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -102,6 +103,7 @@ For my DSA Preparation
 | [0771-jewels-and-stones](https://github.com/swap1930/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/swap1930/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0942-di-string-match](https://github.com/swap1930/LeetCode/tree/master/0942-di-string-match) |
+| [1021-remove-outermost-parentheses](https://github.com/swap1930/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/swap1930/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 ## Pigeonhole Principle
 |  |
@@ -126,4 +128,8 @@ For my DSA Preparation
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/swap1930/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/swap1930/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
