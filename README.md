@@ -69,6 +69,7 @@ For my DSA Preparation
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/swap1930/LeetCode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/swap1930/LeetCode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/swap1930/LeetCode/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/swap1930/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -97,6 +98,7 @@ For my DSA Preparation
 | [0171-excel-sheet-column-number](https://github.com/swap1930/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/swap1930/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/swap1930/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/swap1930/LeetCode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/swap1930/LeetCode/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/swap1930/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/swap1930/LeetCode/tree/master/0709-to-lower-case) |
@@ -118,6 +120,7 @@ For my DSA Preparation
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/swap1930/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/swap1930/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0415-add-strings](https://github.com/swap1930/LeetCode/tree/master/0415-add-strings) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/swap1930/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 ## Database
 |  |
