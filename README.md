@@ -7,6 +7,7 @@ For my DSA Preparation
 |  |
 | ------- |
 | [0046-permutations](https://github.com/swap1930/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/swap1930/LeetCode/tree/master/0047-permutations-ii) |
 | [0303-range-sum-query-immutable](https://github.com/swap1930/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swap1930/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/swap1930/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -49,6 +50,7 @@ For my DSA Preparation
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/swap1930/LeetCode/tree/master/0047-permutations-ii) |
 | [0561-array-partition](https://github.com/swap1930/LeetCode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/swap1930/LeetCode/tree/master/1051-height-checker) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/swap1930/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -140,4 +142,5 @@ For my DSA Preparation
 |  |
 | ------- |
 | [0046-permutations](https://github.com/swap1930/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/swap1930/LeetCode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
