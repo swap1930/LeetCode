@@ -6,6 +6,7 @@ For my DSA Preparation
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/swap1930/LeetCode/tree/master/0046-permutations) |
 | [0303-range-sum-query-immutable](https://github.com/swap1930/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swap1930/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/swap1930/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -135,4 +136,8 @@ For my DSA Preparation
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/swap1930/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/swap1930/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
