@@ -132,6 +132,7 @@ For my DSA Preparation
 | ------- |
 | [0197-rising-temperature](https://github.com/swap1930/LeetCode/tree/master/0197-rising-temperature) |
 | [1661-average-time-of-process-per-machine](https://github.com/swap1930/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/swap1930/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Queue
 |  |
 | ------- |
