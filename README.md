@@ -126,6 +126,7 @@ For my DSA Preparation
 | [0168-excel-sheet-column-title](https://github.com/swap1930/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/swap1930/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/swap1930/LeetCode/tree/master/0415-add-strings) |
+| [0728-self-dividing-numbers](https://github.com/swap1930/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/swap1930/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 ## Database
 |  |
