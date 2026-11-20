@@ -37,6 +37,7 @@ For my DSA Preparation
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/swap1930/LeetCode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/swap1930/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/swap1930/LeetCode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/swap1930/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -98,6 +99,7 @@ For my DSA Preparation
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/swap1930/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/swap1930/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/swap1930/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/swap1930/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -141,6 +143,7 @@ For my DSA Preparation
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/swap1930/LeetCode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/swap1930/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
