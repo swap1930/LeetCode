@@ -38,6 +38,7 @@ For my DSA Preparation
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/swap1930/LeetCode/tree/master/0020-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/swap1930/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/swap1930/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/swap1930/LeetCode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/swap1930/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -151,4 +152,16 @@ For my DSA Preparation
 | [0046-permutations](https://github.com/swap1930/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/swap1930/LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/swap1930/LeetCode/tree/master/0077-combinations) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/swap1930/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/swap1930/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/swap1930/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
