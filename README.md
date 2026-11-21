@@ -93,6 +93,7 @@ For my DSA Preparation
 ## Bit Manipulation
 |  |
 | ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/swap1930/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/swap1930/LeetCode/tree/master/0832-flipping-an-image) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/swap1930/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Matrix
@@ -133,6 +134,7 @@ For my DSA Preparation
 | [0171-excel-sheet-column-number](https://github.com/swap1930/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/swap1930/LeetCode/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/swap1930/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/swap1930/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/swap1930/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 ## Database
 |  |
@@ -167,4 +169,8 @@ For my DSA Preparation
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/swap1930/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/swap1930/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
