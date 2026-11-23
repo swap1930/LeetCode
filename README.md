@@ -6,6 +6,7 @@ For my DSA Preparation
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/swap1930/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/swap1930/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/swap1930/LeetCode/tree/master/0047-permutations-ii) |
 | [0303-range-sum-query-immutable](https://github.com/swap1930/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -156,6 +157,7 @@ For my DSA Preparation
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/swap1930/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/swap1930/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/swap1930/LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/swap1930/LeetCode/tree/master/0077-combinations) |
