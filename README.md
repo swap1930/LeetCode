@@ -15,6 +15,7 @@ For my DSA Preparation
 | [0500-keyboard-row](https://github.com/swap1930/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/swap1930/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/swap1930/LeetCode/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/swap1930/LeetCode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/swap1930/LeetCode/tree/master/0682-baseball-game) |
 | [0804-unique-morse-code-words](https://github.com/swap1930/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/swap1930/LeetCode/tree/master/0832-flipping-an-image) |
@@ -32,6 +33,7 @@ For my DSA Preparation
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swap1930/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/swap1930/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/swap1930/LeetCode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/swap1930/LeetCode/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/swap1930/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/swap1930/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/swap1930/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
